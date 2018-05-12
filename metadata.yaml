@@ -1,0 +1,28 @@
+_repo: Plain-Talks-on-Avoided-Subjects_31671
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guernsey, Henry N. (Henry Newell)
+    alias: Guernsey, Henry Newell
+    birthdate: 1817
+    deathdate: 1885
+    gutenberg_agent_id: '35395'
+    url: http://www.gutenberg.org/2009/agents/35395
+description: ''
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2010-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sexual ethics'
+- !lcc 'HQ'
+title: Plain Talks on Avoided Subjects
+url: http://www.gutenberg.org/ebooks/31671
